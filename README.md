@@ -1,3 +1,2 @@
-# SAM_Tempalte
+# SAM_Template
 ## SAM template repo
-
