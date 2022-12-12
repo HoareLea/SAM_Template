@@ -1,6 +1,6 @@
 C:\Users\DengusiakM\Documents\GitHub\SAM\SAM_Template\build\SAM.Core.Grasshopper.TMP.dll
 C:\Users\DengusiakM\Documents\GitHub\SAM\SAM_Template\build\SAM.Core.Grasshopper.TMP.pdb
-C:\Users\DengusiakM\Documents\GitHub\SAM\SAM_Template\Grasshopper\SAM.Core.Grasshopper.TMP\obj\Debug\SAM.Core.Grasshopper.TMP.csprojAssemblyReference.cache
+C:\Users\DengusiakM\Documents\GitHub\SAM\SAM_Template\Grasshopper\SAM.Core.Grasshopper.TMP\obj\Debug\SAM.Core.Grasshopper.TMP.csproj.AssemblyReference.cache
 C:\Users\DengusiakM\Documents\GitHub\SAM\SAM_Template\Grasshopper\SAM.Core.Grasshopper.TMP\obj\Debug\SAM.Core.Grasshopper.TMP.Properties.Resources.resources
 C:\Users\DengusiakM\Documents\GitHub\SAM\SAM_Template\Grasshopper\SAM.Core.Grasshopper.TMP\obj\Debug\SAM.Core.Grasshopper.TMP.csproj.GenerateResource.cache
 C:\Users\DengusiakM\Documents\GitHub\SAM\SAM_Template\Grasshopper\SAM.Core.Grasshopper.TMP\obj\Debug\SAM.Core.Grasshopper.TMP.csproj.CoreCompileInputs.cache
