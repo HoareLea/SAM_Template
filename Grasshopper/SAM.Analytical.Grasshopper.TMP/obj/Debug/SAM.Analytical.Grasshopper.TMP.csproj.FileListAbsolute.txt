@@ -18,3 +18,6 @@ C:\Users\jakub\GitHub\HoareLea\SAM_Template\Grasshopper\SAM.Analytical.Grasshopp
 C:\Users\jakub\GitHub\HoareLea\SAM_Template\Grasshopper\SAM.Analytical.Grasshopper.TMP\obj\Debug\SAM.Anal.871ECAD5.Up2Date
 C:\Users\jakub\GitHub\HoareLea\SAM_Template\Grasshopper\SAM.Analytical.Grasshopper.TMP\obj\Debug\SAM.Analytical.Grasshopper.TMP.dll
 C:\Users\jakub\GitHub\HoareLea\SAM_Template\Grasshopper\SAM.Analytical.Grasshopper.TMP\obj\Debug\SAM.Analytical.Grasshopper.TMP.pdb
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\build\SAM.Analytical.Grasshopper.TMP.xml
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\Grasshopper\SAM.Analytical.Grasshopper.TMP\obj\Debug\SAM.Analytical.Grasshopper.TMP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\Grasshopper\SAM.Analytical.Grasshopper.TMP\obj\Debug\SAM.Analytical.Grasshopper.TMP.sourcelink.json

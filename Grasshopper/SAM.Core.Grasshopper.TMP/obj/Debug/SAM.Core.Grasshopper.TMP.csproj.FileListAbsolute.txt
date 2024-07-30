@@ -16,3 +16,6 @@ C:\Users\jakub\GitHub\HoareLea\SAM_Template\Grasshopper\SAM.Core.Grasshopper.TMP
 C:\Users\jakub\GitHub\HoareLea\SAM_Template\Grasshopper\SAM.Core.Grasshopper.TMP\obj\Debug\SAM.Core.ECDE8C65.Up2Date
 C:\Users\jakub\GitHub\HoareLea\SAM_Template\Grasshopper\SAM.Core.Grasshopper.TMP\obj\Debug\SAM.Core.Grasshopper.TMP.dll
 C:\Users\jakub\GitHub\HoareLea\SAM_Template\Grasshopper\SAM.Core.Grasshopper.TMP\obj\Debug\SAM.Core.Grasshopper.TMP.pdb
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\build\SAM.Core.Grasshopper.TMP.xml
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\Grasshopper\SAM.Core.Grasshopper.TMP\obj\Debug\SAM.Core.Grasshopper.TMP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\Grasshopper\SAM.Core.Grasshopper.TMP\obj\Debug\SAM.Core.Grasshopper.TMP.sourcelink.json
