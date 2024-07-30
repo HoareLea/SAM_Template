@@ -7,3 +7,15 @@ C:\Users\DengusiakM\Documents\GitHub\SAM\SAM_Template\SAM_TMP\SAM.Analytical.TMP
 C:\Users\DengusiakM\Documents\GitHub\SAM\SAM_Template\SAM_TMP\SAM.Analytical.TMP\obj\Debug\SAM.Analytical.TMP.csproj.CopyComplete
 C:\Users\DengusiakM\Documents\GitHub\SAM\SAM_Template\SAM_TMP\SAM.Analytical.TMP\obj\Debug\SAM.Analytical.TMP.dll
 C:\Users\DengusiakM\Documents\GitHub\SAM\SAM_Template\SAM_TMP\SAM.Analytical.TMP\obj\Debug\SAM.Analytical.TMP.pdb
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\build\SAM.Analytical.TMP.dll.config
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\build\SAM.Analytical.TMP.xml
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\build\SAM.Analytical.TMP.deps.json
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\build\SAM.Analytical.TMP.dll
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\build\SAM.Analytical.TMP.pdb
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\SAM_TMP\SAM.Analytical.TMP\obj\Debug\SAM.Analytical.TMP.csproj.AssemblyReference.cache
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\SAM_TMP\SAM.Analytical.TMP\obj\Debug\SAM.Analytical.TMP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\SAM_TMP\SAM.Analytical.TMP\obj\Debug\SAM.Analytical.TMP.csproj.CoreCompileInputs.cache
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\SAM_TMP\SAM.Analytical.TMP\obj\Debug\SAM.Analytical.TMP.sourcelink.json
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\SAM_TMP\SAM.Analytical.TMP\obj\Debug\SAM.Anal.63EC7BDE.Up2Date
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\SAM_TMP\SAM.Analytical.TMP\obj\Debug\SAM.Analytical.TMP.dll
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\SAM_TMP\SAM.Analytical.TMP\obj\Debug\SAM.Analytical.TMP.pdb

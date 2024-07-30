@@ -6,3 +6,13 @@ C:\Users\DengusiakM\Documents\GitHub\SAM\SAM_Template\SAM_TMP\SAM.Core.TMP\obj\D
 C:\Users\DengusiakM\Documents\GitHub\SAM\SAM_Template\SAM_TMP\SAM.Core.TMP\obj\Debug\SAM.Core.TMP.csproj.CopyComplete
 C:\Users\DengusiakM\Documents\GitHub\SAM\SAM_Template\SAM_TMP\SAM.Core.TMP\obj\Debug\SAM.Core.TMP.dll
 C:\Users\DengusiakM\Documents\GitHub\SAM\SAM_Template\SAM_TMP\SAM.Core.TMP\obj\Debug\SAM.Core.TMP.pdb
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\build\SAM.Core.TMP.xml
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\build\SAM.Core.TMP.deps.json
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\build\SAM.Core.TMP.dll
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\build\SAM.Core.TMP.pdb
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\SAM_TMP\SAM.Core.TMP\obj\Debug\SAM.Core.TMP.csproj.AssemblyReference.cache
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\SAM_TMP\SAM.Core.TMP\obj\Debug\SAM.Core.TMP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\SAM_TMP\SAM.Core.TMP\obj\Debug\SAM.Core.TMP.csproj.CoreCompileInputs.cache
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\SAM_TMP\SAM.Core.TMP\obj\Debug\SAM.Core.TMP.sourcelink.json
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\SAM_TMP\SAM.Core.TMP\obj\Debug\SAM.Core.TMP.dll
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\SAM_TMP\SAM.Core.TMP\obj\Debug\SAM.Core.TMP.pdb

@@ -7,3 +7,15 @@ C:\Users\DengusiakM\Documents\GitHub\SAM\SAM_Template\Grasshopper\SAM.Core.Grass
 C:\Users\DengusiakM\Documents\GitHub\SAM\SAM_Template\Grasshopper\SAM.Core.Grasshopper.TMP\obj\Debug\SAM.Core.Grasshopper.TMP.csproj.CopyComplete
 C:\Users\DengusiakM\Documents\GitHub\SAM\SAM_Template\Grasshopper\SAM.Core.Grasshopper.TMP\obj\Debug\SAM.Core.Grasshopper.TMP.dll
 C:\Users\DengusiakM\Documents\GitHub\SAM\SAM_Template\Grasshopper\SAM.Core.Grasshopper.TMP\obj\Debug\SAM.Core.Grasshopper.TMP.pdb
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\build\SAM.Core.Grasshopper.TMP.dll
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\build\SAM.Core.Grasshopper.TMP.pdb
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\Grasshopper\SAM.Core.Grasshopper.TMP\obj\Debug\SAM.Core.Grasshopper.TMP.csproj.AssemblyReference.cache
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\Grasshopper\SAM.Core.Grasshopper.TMP\obj\Debug\SAM.Core.Grasshopper.TMP.Properties.Resources.resources
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\Grasshopper\SAM.Core.Grasshopper.TMP\obj\Debug\SAM.Core.Grasshopper.TMP.csproj.GenerateResource.cache
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\Grasshopper\SAM.Core.Grasshopper.TMP\obj\Debug\SAM.Core.Grasshopper.TMP.csproj.CoreCompileInputs.cache
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\Grasshopper\SAM.Core.Grasshopper.TMP\obj\Debug\SAM.Core.ECDE8C65.Up2Date
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\Grasshopper\SAM.Core.Grasshopper.TMP\obj\Debug\SAM.Core.Grasshopper.TMP.dll
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\Grasshopper\SAM.Core.Grasshopper.TMP\obj\Debug\SAM.Core.Grasshopper.TMP.pdb
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\build\SAM.Core.Grasshopper.TMP.xml
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\Grasshopper\SAM.Core.Grasshopper.TMP\obj\Debug\SAM.Core.Grasshopper.TMP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\GitHub\HoareLea\SAM_Template\Grasshopper\SAM.Core.Grasshopper.TMP\obj\Debug\SAM.Core.Grasshopper.TMP.sourcelink.json
