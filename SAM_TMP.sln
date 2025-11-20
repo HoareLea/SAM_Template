@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.10.35027.167
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11217.181 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SAM_TMP", "SAM_TMP", "{4FDEDAD6-FCEC-4426-9A3B-086BF3C99CC0}"
 EndProject
@@ -9,6 +9,11 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAM.Core.Grasshopper.TMP", "Grasshopper\SAM.Core.Grasshopper.TMP\SAM.Core.Grasshopper.TMP.csproj", "{EA20D57F-BB3E-447A-80A2-14C04BAA665F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SAM.Core.TMP", "SAM_TMP\SAM.Core.TMP\SAM.Core.TMP.csproj", "{1C86B9AC-81B3-41D8-BA48-321F28AB94F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3BD86321-479B-4877-A0FF-1E3718EA4C36}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
