@@ -1,19 +1,71 @@
+[![Build (Windows)](https://github.com/SAM-BIM/SAM_Template/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/SAM-BIM/SAM_Template/actions/workflows/build.yml)
+
 # SAM_Template
 
-<a href="https://github.com/HoareLea/SAM_Excel"><img src="https://github.com/HoareLea/SAM/blob/master/Grasshopper/SAM.Core.Grasshopper/Resources/SAM_Small.png" align="left" hspace="10" vspace="6"></a>
+<a href="https://github.com/SAM-BIM/SAM">
+  <img src="https://github.com/SAM-BIM/SAM/blob/master/Grasshopper/SAM.Core.Grasshopper/Resources/SAM_Small.png"
+       align="left" hspace="10" vspace="6">
+</a>
 
-**SAM** is part of SAM Toolkit that is designed to help engneers to create Analytical Model. Welcome and let's make the opensource journey continue. :handshake:
+**SAM_Template** is part of the **SAM (Sustainable Analytical Model) Toolkit** —  
+an open-source collection of tools designed to help engineers create, manage,
+and process analytical building models for energy and environmental analysis.
+
+This repository provides a **standardised template for creating new SAM-BIM repositories**.
+It defines the recommended project structure, configuration, licensing, and documentation
+used across the SAM ecosystem to ensure consistency, maintainability, and traceability.
+
+---
+
+## Purpose
+
+The template is intended to be used when:
+- creating a new SAM module or integration repository
+- standardising repository setup across the SAM-BIM organisation
+- ensuring consistent licensing, CI configuration, and documentation
+
+It includes baseline configuration for:
+- repository structure
+- GitHub workflows
+- licensing and copyright headers
+- README and contribution conventions
+
+---
+
+## How to use
+
+1. Create a new repository using **SAM_Template** as the base.
+2. Rename the solution, projects, and namespaces means.
+3. Update `README.md` with the module-specific description.
+4. Remove or adjust any unused components as required.
+
+The resulting repository should follow the same conventions as other SAM-BIM modules.
+
+---
 
 ## Resources
-* [Wiki](https://github.com/HoareLea/SAM/wiki)
+- 📘 **SAM Wiki:** https://github.com/SAM-BIM/SAM/wiki  
+- 🧠 **SAM Core:** https://github.com/SAM-BIM/SAM  
 
-## Installing
+---
 
-To install **SAM** from .exe just download and run [latest installer](https://github.com/HoareLea/SAM_Deploy/releases) otherwise rebuild using VS [SAM](https://github.com/HoareLea/SAM)
+## Development notes
 
-## Licence ##
+- Target framework: **.NET / C#**
+- Repository layout follows SAM-BIM conventions
+- New or modified `.cs` files must include the SPDX header from `COPYRIGHT_HEADER.txt`
 
-SAM is free software licenced under GNU Lesser General Public Licence - [https://www.gnu.org/licenses/lgpl-3.0.html](https://www.gnu.org/licenses/lgpl-3.0.html)  
-Each contributor holds copyright over their respective contributions.
-The project versioning (Git) records all such contribution source information.
-See [LICENSE](https://github.com/HoareLea/SAM_Template/blob/master/LICENSE) and [COPYRIGHT_HEADER](https://github.com/HoareLea/SAM/blob/master/COPYRIGHT_HEADER.txt).
+---
+
+## Licence
+
+This repository is free software licensed under the  
+**GNU Lesser General Public License v3.0 or later (LGPL-3.0-or-later)**.
+
+Each contributor retains copyright to their respective contributions.  
+The project history (Git) records authorship and provenance of all changes.
+
+See:
+- `LICENSE`
+- `NOTICE`
+- `COPYRIGHT_HEADER.txt`
